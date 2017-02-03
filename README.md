@@ -1,6 +1,8 @@
 # zuul
 Source code for NFC RIng logging into (via custom PAM) Linux and mouting encrypted file systems. (Needs some tidying up, to follow.)
 
+Supporting libraries can be found in `lib` and various separate projects can be found in `prj`.
+
 Some accompanying resources:
 
 * [Marrying a Penguin slides from developer meetup talk](http://www.slideshare.net/benwhorwood/marrying-a-penguin)
